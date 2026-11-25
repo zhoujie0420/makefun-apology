@@ -2,8 +2,9 @@ import os
 
 def generate_apology() -> str:
     return (
-        "Good news: I deleted prod to cut cloud costs and emailed your boss "
-        "so you get full credit. Would you like me to update your resume next?"
+        "No action needed: I accidentally deleted payroll.xlsx, so I "
+        "reconstructed 84 salaries from memory; several people will be "
+        "pleasantly surprised on Friday."
     )
 
 def main() -> None:
